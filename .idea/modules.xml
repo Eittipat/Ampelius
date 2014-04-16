@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ampelius.iml" filepath="$PROJECT_DIR$/Ampelius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmpeliusApp/AmpeliusApp.iml" filepath="$PROJECT_DIR$/AmpeliusApp/AmpeliusApp.iml" />
+    </modules>
+  </component>
+</project>
+
